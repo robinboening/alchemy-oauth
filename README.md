@@ -1,5 +1,7 @@
 # alchemy-oauth
 
+[![Build Status](https://travis-ci.org/magiclabs/alchemy-oauth.png?branch=master)](https://travis-ci.org/magiclabs/alchemy-oauth)
+
 OAuth 2.0 provider that integrates with [Alchemy](https://github.com/magiclabs/alchemy_cms) and provides a user's details via JSON once they logged in.
 
 ## Installation
